@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}|MainForm\\MainForm.csproj|e:\\informatyka\\programowanie zaawansowane\\projekt - mieszanie receptur chemicznych\\bibliotekachemiczna\\mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}|MainForm\\MainForm.csproj|E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}|MainForm\\MainForm.csproj|e:\\informatyka\\programowanie zaawansowane\\projekt - mieszanie receptur chemicznych\\bibliotekachemiczna\\mainform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|e:\\informatyka\\programowanie zaawansowane\\projekt - mieszanie receptur chemicznych\\bibliotekachemiczna\\bibliotekachemiczna\\eksperymentator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|solutionrelative:bibliotekachemiczna\\eksperymentator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|e:\\informatyka\\programowanie zaawansowane\\projekt - mieszanie receptur chemicznych\\bibliotekachemiczna\\bibliotekachemiczna\\isubstancja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|solutionrelative:bibliotekachemiczna\\isubstancja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|e:\\informatyka\\programowanie zaawansowane\\projekt - mieszanie receptur chemicznych\\bibliotekachemiczna\\bibliotekachemiczna\\mieszanka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|solutionrelative:bibliotekachemiczna\\mieszanka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|e:\\informatyka\\programowanie zaawansowane\\projekt - mieszanie receptur chemicznych\\bibliotekachemiczna\\bibliotekachemiczna\\gotowareceptura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|solutionrelative:bibliotekachemiczna\\gotowareceptura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|e:\\informatyka\\programowanie zaawansowane\\projekt - mieszanie receptur chemicznych\\bibliotekachemiczna\\bibliotekachemiczna\\isubstancjaconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761092A6-6E94-4FA5-AE6B-13802A2D1145}|BibliotekaChemiczna\\BibliotekaChemiczna.csproj|solutionrelative:bibliotekachemiczna\\isubstancjaconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\MainForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form1.Designer.cs",
+              "ToolTip": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\MainForm\\Form1.Designer.cs",
+              "RelativeToolTip": "MainForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:32:36.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\MainForm\\Form1.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form1.cs",
+              "ToolTip": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\MainForm\\Form1.cs",
+              "RelativeToolTip": "MainForm\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:43:26.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\MainForm\\Form1.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form1.cs",
+              "ToolTip": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\MainForm\\Form1.cs [Projekt]",
+              "RelativeToolTip": "MainForm\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:32:30.321Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Eksperymentator.cs",
+              "DocumentMoniker": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\Eksperymentator.cs",
+              "RelativeDocumentMoniker": "BibliotekaChemiczna\\Eksperymentator.cs",
+              "ToolTip": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\Eksperymentator.cs",
+              "RelativeToolTip": "BibliotekaChemiczna\\Eksperymentator.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAAAHIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:31:15.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mieszanka.cs",
+              "DocumentMoniker": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\Mieszanka.cs",
+              "RelativeDocumentMoniker": "BibliotekaChemiczna\\Mieszanka.cs",
+              "ToolTip": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\Mieszanka.cs",
+              "RelativeToolTip": "BibliotekaChemiczna\\Mieszanka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:30:34.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISubstancja.cs",
+              "DocumentMoniker": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\ISubstancja.cs",
+              "RelativeDocumentMoniker": "BibliotekaChemiczna\\ISubstancja.cs",
+              "ToolTip": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\ISubstancja.cs",
+              "RelativeToolTip": "BibliotekaChemiczna\\ISubstancja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:29:11.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GotowaReceptura.cs",
+              "DocumentMoniker": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\GotowaReceptura.cs",
+              "RelativeDocumentMoniker": "BibliotekaChemiczna\\GotowaReceptura.cs",
+              "ToolTip": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\GotowaReceptura.cs",
+              "RelativeToolTip": "BibliotekaChemiczna\\GotowaReceptura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:25:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISubstancjaConverter.cs",
+              "DocumentMoniker": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\ISubstancjaConverter.cs",
+              "RelativeDocumentMoniker": "BibliotekaChemiczna\\ISubstancjaConverter.cs",
+              "ToolTip": "E:\\informatyka\\Programowanie zaawansowane\\Projekt - Mieszanie Receptur Chemicznych\\BibliotekaChemiczna\\BibliotekaChemiczna\\ISubstancjaConverter.cs",
+              "RelativeToolTip": "BibliotekaChemiczna\\ISubstancjaConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:45:10.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "Skladniki": [
+      {
+        "Nazwa": "Wod\u00F3r",
+        "StanSkupienia": "Gaz",
+        "Typ": "Gaz",
+        "Kolor": "Bezbarwny"
+      },
+      {
+        "Nazwa": "Lit",
+        "StanSkupienia": "Sta\u0142y",
+        "Typ": "Metal alkaliczny",
+        "Kolor": "Srebrny"
+      }
+    ],
+    "Efekt": "Brak reakcji",
+    "Kolor": "Szary"
+  },
+  {
+    "Skladniki": [
+      {
+        "Nazwa": "Beryl",
+        "StanSkupienia": "Sta\u0142y",
+        "Typ": "Ziem alkaliczny",
+        "Kolor": "Szarawy"
+      },
+      {
+        "Nazwa": "Magnez",
+        "StanSkupienia": "Sta\u0142y",
+        "Typ": "Ziem alkaliczny",
+        "Kolor": "Srebrny"
+      }
+    ],
+    "Efekt": "Brak reakcji",
+    "Kolor": "Szary"
+  },
+  {
+    "Skladniki": [
+      {
+        "Nazwa": "S\u00F3d",
+        "StanSkupienia": "Sta\u0142y",
+        "Typ": "Metal alkaliczny",
+        "Kolor": "Srebrny"
+      },
+      {
+        "Nazwa": "Magnez",
+        "StanSkupienia": "Sta\u0142y",
+        "Typ": "Ziem alkaliczny",
+        "Kolor": "Srebrny"
+      }
+    ],
+    "Efekt": "Brak reakcji",
+    "Kolor": "Szary"
+  },
+  {
+    "Skladniki": [
+      {
+        "Nazwa": "Nihonium",
+        "StanSkupienia": "Sta\u0142y",
+        "Typ": "Metal bloku p",
+        "Kolor": "Srebrzysty"
+      },
+      {
+        "Nazwa": "Oganesson",
+        "StanSkupienia": "Gaz",
+        "Typ": "Gaz szlachetny",
+        "Kolor": "Bezbarwny"
+      }
+    ],
+    "Efekt": "Brak reakcji",
+    "Kolor": "Szklany"
+  },
+  {
+    "Skladniki": [
+      {
+        "Nazwa": "Wod\u00F3r",
+        "StanSkupienia": "Gaz",
+        "Typ": "Gaz",
+        "Kolor": "Bezbarwny"
+      },
+      {
+        "Nazwa": "Tlen",
+        "StanSkupienia": "Gaz",
+        "Typ": "Gaz",
+        "Kolor": "Bezbarwny"
+      }
+    ],
+    "Efekt": "Kondensacja",
+    "Kolor": "Przezroczysty"
+  }
+]

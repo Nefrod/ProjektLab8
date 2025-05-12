@@ -1,0 +1,11 @@
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\bin\Debug\net8.0\BibliotekaChemiczna.deps.json
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\bin\Debug\net8.0\BibliotekaChemiczna.dll
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\bin\Debug\net8.0\BibliotekaChemiczna.pdb
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\obj\Debug\net8.0\BibliotekaChemiczna.GeneratedMSBuildEditorConfig.editorconfig
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\obj\Debug\net8.0\BibliotekaChemiczna.AssemblyInfoInputs.cache
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\obj\Debug\net8.0\BibliotekaChemiczna.AssemblyInfo.cs
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\obj\Debug\net8.0\BibliotekaChemiczna.csproj.CoreCompileInputs.cache
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\obj\Debug\net8.0\BibliotekaChemiczna.dll
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\obj\Debug\net8.0\refint\BibliotekaChemiczna.dll
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\obj\Debug\net8.0\BibliotekaChemiczna.pdb
+E:\informatyka\Programowanie zaawansowane\Projekt - Mieszanie Receptur Chemicznych\BibliotekaChemiczna\BibliotekaChemiczna\obj\Debug\net8.0\ref\BibliotekaChemiczna.dll

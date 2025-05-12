@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MainForm/1.0.0": {
+        "dependencies": {
+          "BibliotekaChemiczna": "1.0.0"
+        },
+        "runtime": {
+          "MainForm.dll": {}
+        }
+      },
+      "BibliotekaChemiczna/1.0.0": {
+        "runtime": {
+          "BibliotekaChemiczna.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotekaChemiczna/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

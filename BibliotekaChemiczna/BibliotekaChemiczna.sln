@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotekaChemiczna", "BibliotekaChemiczna\BibliotekaChemiczna.csproj", "{761092A6-6E94-4FA5-AE6B-13802A2D1145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainForm", "MainForm\MainForm.csproj", "{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761092A6-6E94-4FA5-AE6B-13802A2D1145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761092A6-6E94-4FA5-AE6B-13802A2D1145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761092A6-6E94-4FA5-AE6B-13802A2D1145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761092A6-6E94-4FA5-AE6B-13802A2D1145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C6FA3D-E156-4D6B-8DDC-9574EBA29DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94906933-9E26-4E3B-9EF5-40FC05029FB8}
+	EndGlobalSection
+EndGlobal

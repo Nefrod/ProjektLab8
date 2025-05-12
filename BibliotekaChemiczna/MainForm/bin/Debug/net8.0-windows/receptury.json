@@ -1,0 +1,38 @@
+[
+  {
+    "Skladniki": [
+      "Wod\u00F3r",
+      "Tlen"
+    ],
+    "Produkt": "Woda",
+    "Efekt": "Kondensacja",
+    "Kolor": "Przezroczysty"
+  },
+  {
+    "Skladniki": [
+      "S\u00F3d",
+      "Chlor"
+    ],
+    "Produkt": "Chlorek sodu",
+    "Efekt": "Krystalizacja",
+    "Kolor": "Bia\u0142y"
+  },
+  {
+    "Skladniki": [
+      "S\u00F3d",
+      "Woda"
+    ],
+    "Produkt": "Wodorotlenek sodu \u002B wod\u00F3r",
+    "Efekt": "Eksplozja",
+    "Kolor": "Srebrny"
+  },
+  {
+    "Skladniki": [
+      "Tlen",
+      "W\u0119giel"
+    ],
+    "Produkt": "Dwutlenek w\u0119gla",
+    "Efekt": "Spalanie",
+    "Kolor": "Bezbarwny"
+  }
+]
