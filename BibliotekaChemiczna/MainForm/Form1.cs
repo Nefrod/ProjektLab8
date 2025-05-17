@@ -53,7 +53,7 @@ namespace MainForm
             listBoxSubstancje.DataSource = lista;
             toolTip1.SetToolTip(listBoxSubstancje, "Wybierz co najmniej 2 substancje.");
 
-            listBoxSubstancje.ClearSelected(); // 👈 dodaj to!
+            listBoxSubstancje.ClearSelected(); 
         }
 
         private void comboBoxFiltr_SelectedIndexChanged(object sender, EventArgs e)
