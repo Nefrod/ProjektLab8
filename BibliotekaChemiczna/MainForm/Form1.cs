@@ -26,7 +26,7 @@ namespace MainForm
             eksperymentator.UdanaReakcja += PokazReakcje;
             eksperymentator.NiebezpiecznaReakcja += mieszanka =>
             {
-                MessageBox.Show($"💥 Niebezpieczna reakcja: {mieszanka.Efekt}", "Uwaga!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show($"Niebezpieczna reakcja: {mieszanka.Efekt}", "Uwaga!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             };
 
             comboBoxFiltr.Items.Add("Wszystkie");
