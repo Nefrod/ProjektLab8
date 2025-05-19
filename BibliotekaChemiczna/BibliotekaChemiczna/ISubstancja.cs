@@ -10,7 +10,7 @@ namespace BibliotekaChemiczna
     {
         string Nazwa { get; }
         string StanSkupienia { get; }
-        string Typ { get; } // np. Kwas, Zasada, Metal, itd.
+        string Typ { get; } 
         string Kolor { get; }
     }
 
