@@ -11,13 +11,13 @@ namespace MainForm
     public partial class Form1 : Form
     {
         private Eksperymentator eksperymentator = new();
-        private List<ISubstancja> zaznaczone = new();  // Poprawiony typ i inicjalizacja
+        private List<ISubstancja> zaznaczone = new();  
         private IEnumerable<object> periodicTable;
         private bool blokujZmianeListy = false;
-        private Dictionary<string, string> mapaSymboli = new(); // nazwa -> symbol
+        private Dictionary<string, string> mapaSymboli = new(); 
         private Dictionary<string, Button> przyciskiPierwiastkow = new();
         private ToolTip toolTipPierwiastki = new();
-        private Dictionary<string, Color> koloryDomyslne = new(); // symbol -> domyślny kolor
+        private Dictionary<string, Color> koloryDomyslne = new(); 
 
         public Form1()
         {
@@ -39,7 +39,7 @@ namespace MainForm
             comboBoxFiltr.SelectedIndex = 0;
 
             OdswiezListeSubstancji();
-            GenerujUkładOkresowy();  // Dodajemy
+            GenerujUkładOkresowy();  
         }
 
         private void OdswiezListeSubstancji()
@@ -183,7 +183,7 @@ namespace MainForm
                 { "Fm", (14, 10) }, { "Md", (15, 10) }, { "No", (16, 10) }, { "Lr", (17, 10) }
             };
 
-            // Mapa nazw substancji na symbol
+            
             mapaSymboli = new Dictionary<string, string>
             {
                 { "Wodór", "H" }, { "Hel", "He" }, { "Lit", "Li" }, { "Beryl", "Be" }, { "Bor", "B" }, { "Węgiel", "C" },
@@ -233,7 +233,7 @@ namespace MainForm
                     FlatStyle = FlatStyle.Flat
                 };
 
-                // Pobierz substancję powiązaną z tym przyciskiem
+                
                 ISubstancja substancja = null;
                 string nazwa = mapaSymboli.FirstOrDefault(kv => kv.Value == symbol).Key;
 
@@ -243,7 +243,7 @@ namespace MainForm
 
                     if (substancja != null)
                     {
-                        // Ustal domyślny kolor zależnie od typu
+                        
                         var kolor = substancja.Typ switch
                         {
                             var t when t.Contains("Gaz") => Color.LightSkyBlue,
@@ -256,19 +256,19 @@ namespace MainForm
                         };
 
                         btn.BackColor = kolor;
-                        koloryDomyslne[symbol] = kolor; // zapamiętaj domyślny kolor
+                        koloryDomyslne[symbol] = kolor; 
 
-                        // Tooltip
+                        
                         toolTipPierwiastki.SetToolTip(btn, $"{substancja.Nazwa} – {substancja.Typ}");
                     }
                 }
 
-                // Dodaj do słownika przycisków
+                
                 przyciskiPierwiastkow[symbol] = btn;
 
                 btn.Click += (s, e) =>
                 {
-                    // ignoruj kliknięcia przycisków, które nie są na aktualnej liście
+                    
                     if (substancja == null || !listBoxSubstancje.Items.Contains(substancja))
                     {
                         MessageBox.Show("Substancja nie jest dostępna w obecnym filtrze.", "Niedostępne", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -278,15 +278,15 @@ namespace MainForm
                     if (zaznaczone.Any(z => z.Nazwa == substancja.Nazwa))
                     {
                         zaznaczone.RemoveAll(z => z.Nazwa == substancja.Nazwa);
-                        btn.BackColor = koloryDomyslne[symbol]; // przywróć domyślny
+                        btn.BackColor = koloryDomyslne[symbol]; 
                     }
                     else
                     {
                         zaznaczone.Add(substancja);
-                        btn.BackColor = Color.LimeGreen; // kolor zaznaczenia (np. jasnozielony)
+                        btn.BackColor = Color.LimeGreen; 
                     }
 
-                    // Synchronizacja z listBoxem
+                    
                     blokujZmianeListy = true;
                     listBoxSubstancje.SelectedItem = null;
                     listBoxSubstancje.ClearSelected();
