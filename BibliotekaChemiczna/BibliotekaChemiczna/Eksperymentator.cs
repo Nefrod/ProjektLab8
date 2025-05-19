@@ -231,13 +231,13 @@ namespace BibliotekaChemiczna
             bool Czy(string a, string b) =>
                 (typ1 == a && typ2 == b) || (typ1 == b && typ2 == a);
 
-            // 🔥 Metal + Kwas
+
             if (Czy("metal", "kwas"))
             {
                 return UtworzMieszanke(substancja1, substancja2, "Wydzielanie gazu", "Bąbelkowy");
             }
 
-            // 💥 Gaz + Gaz
+
             if (Czy("gaz", "gaz"))
             {
                 var mieszanka = new Mieszanka
@@ -251,37 +251,37 @@ namespace BibliotekaChemiczna
                 throw new NiebezpiecznaReakcjaException("Niebezpieczna reakcja! Eksplozja gazów.");
             }
 
-            // ⚗️ Metal + Niemental
+
             if (Czy("metal", "niemental"))
             {
                 return UtworzMieszanke(substancja1, substancja2, "Utlenianie", "Szaroniebieski");
             }
 
-            // ⚡ Metal + Metal
+
             if (Czy("metal", "metal"))
             {
                 return UtworzMieszanke(substancja1, substancja2, "Stopienie", "Metaliczny");
             }
 
-            // 🧪 Halogen + Metal
+
             if (Czy("halogen", "metal"))
             {
                 return UtworzMieszanke(substancja1, substancja2, "Reakcja egzotermiczna", "Pomarańczowy");
             }
 
-            // 💨 Niemental + Gaz
+
             if (Czy("niemental", "gaz"))
             {
                 return UtworzMieszanke(substancja1, substancja2, "Rozproszenie", "Mglisty");
             }
 
-            // 🧊 Gaz szlachetny + cokolwiek
+
             if (typ1.Contains("szlachetny") || typ2.Contains("szlachetny"))
             {
                 return UtworzMieszanke(substancja1, substancja2, "Brak reakcji", "Szklany");
             }
 
-            // 🧽 Domyślny przypadek
+
             return UtworzMieszanke(substancja1, substancja2, "Brak reakcji", "Szary");
         }
 
